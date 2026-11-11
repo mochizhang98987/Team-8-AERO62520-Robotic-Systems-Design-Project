@@ -4,7 +4,7 @@
   <name>mycobot_mtc_pick_place_demo</name>
   <version>0.0.0</version>
   <description>Course submission package for LeoRover plus myCobot grasp-launch integration and MoveIt Task Constructor node scaffolding.</description>
-  <maintainer email="automaticaddison@todo.com">ubuntu</maintainer>
+  <maintainer email="maintainer@example.com">Team 8 Maintainers</maintainer>
   <license>BSD-3-Clause</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>

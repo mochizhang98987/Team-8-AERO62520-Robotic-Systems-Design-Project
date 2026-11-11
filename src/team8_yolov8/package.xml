@@ -4,7 +4,7 @@
   <name>team8_yolov8</name>
   <version>0.1.0</version>
   <description>Course submission package for ROS 2 vision-node scaffolding and YOLO-style detection to grasp-handoff topic integration.</description>
-  <maintainer email="andreas.hovaldt@gmail.com">Andreas Hovaldt</maintainer>
+  <maintainer email="maintainer@example.com">Team 8 Maintainers</maintainer>
   <license>MIT</license>
 
   <depend>rclpy</depend>

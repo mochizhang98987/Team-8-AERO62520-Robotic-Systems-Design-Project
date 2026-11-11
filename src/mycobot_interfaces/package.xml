@@ -4,7 +4,7 @@
   <name>mycobot_interfaces</name>
   <version>0.0.0</version>
   <description>Course submission interface package containing ROS 2 service definitions used by the simplified grasp-planning pipeline.</description>
-  <maintainer email="automaticaddison@todo.com">ubuntu</maintainer>
+  <maintainer email="maintainer@example.com">Team 8 Maintainers</maintainer>
   <license>BSD-3-Clause</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>

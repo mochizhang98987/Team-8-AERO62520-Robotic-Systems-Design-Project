@@ -4,7 +4,7 @@
   <name>team8_navigation</name>
   <version>1.0.0</version>
   <description>Course submission package for simulated mobile robot navigation, SLAM bringup, map-based patrol scaffolding, and integrated launch support.</description>
-  <maintainer email="david.dudas@outlook.com">David Dudas</maintainer>
+  <maintainer email="maintainer@example.com">Team 8 Maintainers</maintainer>
   <license>Apache License 2.0</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
